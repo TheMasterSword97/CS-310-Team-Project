@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package CS310TeamProject;
+package edu.jsu.mcis.tas_fa20;
 
 /**
  *
