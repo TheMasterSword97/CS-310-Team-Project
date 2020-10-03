@@ -9,8 +9,14 @@ package edu.jsu.mcis.tas_fa20;
  *
  * @author SomeAnxiousIguana
  */
-public class Main {
-public static void main(String[] args) {
-System.out.println(TestClass.testMethod1());
+public class TestClass {
+    
+    public static String testMethod1() {
+        return "Hello, World!";
 }
+    
+    public static String testMethod2() {
+return "Hello there, world!";
+}
+
 }
